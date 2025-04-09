@@ -1,4 +1,4 @@
-# Salut, Je suis Hady COULIBALY:
+# Salut, Je suis Hady COULIBALY
 Data Scientist passionné et Consultant Data du cabinet d'étude Ecostat, j'ai une expertise approfondie en intelligence artificielle, analyse de données et machine learning. Mon parcours allié statistique, développement informatique et gestion de projets, avec une capacité éprouvée à transformer les données en insights stratégiques.
 
 
