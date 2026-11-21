@@ -5,7 +5,7 @@
 3 ans d'expérience en analyse de données : je transforme des données brutes en tableaux de bord fiables, en reportings automatisés et en modèles prédictifs interprétables, au service des équipes métiers.
 
 [![Disponible](https://img.shields.io/badge/Disponible-imm%C3%A9diatement-2ea44f)](https://www.linkedin.com/in/hady-coulibaly-data-ia-france-cdi/)
-[![CDI · CDD · Freelance](https://img.shields.io/badge/CDI%20%C2%B7%20CDD%20%C2%B7%20Freelance-%C3%8Ele--de--France%20%26%20mobilit%C3%A9%20nationale-4f6df5)](https://www.linkedin.com/in/hady-coulibaly-data-ia-france-cdi/)
+[![CDI · CDD](https://img.shields.io/badge/CDI%20%C2%B7%20CDD-%C3%8Ele--de--France%20%26%20mobilit%C3%A9%20nationale-4f6df5)](https://www.linkedin.com/in/hady-coulibaly-data-ia-france-cdi/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hady-coulibaly-data-ia-france-cdi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white)](https://portofolio-hadycoul.lovable.app/)
