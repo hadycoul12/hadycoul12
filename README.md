@@ -1,30 +1,65 @@
-# Bienvenue sur ma page !
+# Hady Coulibaly
 
-**Apprenti Business Data Analyst**, avec un profil hybride entre analyse statistique avancée, ingénierie de données et développement d’outils d’aide à la décision.<br><br>
-Actuellement **étudiant en Master Data & Intelligence Artificielle**, j'accompagne les entreprises dans la transformation de leurs données en actions concrètes. Grâce à une formation rigoureuse en statistiques, machine learning et business intelligence, je construis des solutions exploitables : tableaux de bord dynamiques, modèles prédictifs, rapports analytiques, etc.<br><br>
-**Mon objectif :** délivrer des insights stratégiques à partir de données complexes pour améliorer la prise de décision — plus vite, plus intelligemment.
+**Data Analyst & Data Scientist** · Statisticien de formation · Titulaire d'un Master Chef de projet Data & IA
 
----
+3 ans d'expérience en analyse de données : je transforme des données brutes en tableaux de bord fiables, en reportings automatisés et en modèles prédictifs interprétables, au service des équipes métiers.
 
-## 🌐 Contacts
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hadycoulibaly)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hady-coulibaly)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:coulibalyhady33@gmail.com)
+[![Disponible](https://img.shields.io/badge/Disponible-imm%C3%A9diatement-2ea44f)](https://www.linkedin.com/in/hady-coulibaly-data-ia-france-cdi/)
+[![CDI · CDD · Freelance](https://img.shields.io/badge/CDI%20%C2%B7%20CDD%20%C2%B7%20Freelance-%C3%8Ele--de--France%20%26%20mobilit%C3%A9%20nationale-4f6df5)](https://www.linkedin.com/in/hady-coulibaly-data-ia-france-cdi/)
 
----
-
-# Langages & Outils
-
-| **Domaine** | **Technologies** |
-|--------------|------------------|
-| **Langages & Outils analytiques** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/SAS_logo.svg" height="30"/> |
-| **Visualisation & Dashboarding** | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" height="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="30"/> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="30"/> |
-| **Machine Learning & Deep Learning** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Scipy_logo.svg" height="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="30"/> |
-| **Bases de Données** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30"/> |
-| **Automatisation & DevOps** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Crontab_logo.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30"/> |
-| **Outils de conception graphique** | <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" height="30"/> |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hady-coulibaly-data-ia-france-cdi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white)](https://portofolio-hadycoul.lovable.app/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?logo=gmail&logoColor=white)](mailto:hady.coulibaly.data@gmail.com)
 
 ---
 
-# 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=hadycoul12&theme=prussian&hide_border=false)<br/>
+## Projet phare : scoring du risque d'annulation (maeva&co)
+
+Modèle de machine learning qui estime, dès la réservation, la probabilité qu'un dossier soit annulé, restitué dans une application Streamlit pour les équipes CRM.
+
+| 310 862 | 0,764 | 0,263 | 72,7 % |
+|:--:|:--:|:--:|:--:|
+| dossiers analysés | AUC-ROC | PR-AUC (3,6 fois le hasard) | de rappel : plus de 7 annulations sur 10 détectées |
+
+- Modèle **XGBoost** calibré (régression isotonique), explicabilité **SHAP**, seuil d'alerte raisonné en valeur business.
+- Application **Streamlit** multi-pages : scoring d'un dossier, scoring par lot, simulation d'impact, conformité RGPD et journal d'audit.
+- Code de l'application : [`application`](https://github.com/hadycoul12/application) · Analyse et modélisation : [`memoire_M2`](https://github.com/hadycoul12/memoire_M2)
+
+*Les données de réservation sont confidentielles et ne sont pas publiées.*
+
+---
+
+## Sélection de projets
+
+| Projet | Ce que j'y démontre | Stack |
+|---|---|---|
+| [`movie_backend`](https://github.com/hadycoul12/movie_backend) | Pipeline de bout en bout : base relationnelle, API REST, SDK Python, application Streamlit, Docker | FastAPI, SQLAlchemy, SQLite, Streamlit, Docker |
+| [`application-prediction-frais-sante`](https://github.com/hadycoul12/application-prediction-frais-sante) | Application Streamlit conforme RGPD, modèles interprétables, analyse des biais | Python, scikit-learn, Streamlit, Plotly |
+| [`Projet-Tuteur-`](https://github.com/hadycoul12/Projet-Tuteur-) | Collecte automatisée (OCDE, ONU, IDH), base MySQL, analyses sous R, plateforme Shiny sur les inégalités de genre | Python, MySQL, R, Shiny |
+| [`Analyse-des-Donnees-Nutri-Score`](https://github.com/hadycoul12/Analyse-des-Donnees-Nutri-Score) | Exploration d'Open Food Facts : nettoyage, ACP, clustering | Python, pandas, scikit-learn, Plotly |
+| [`Projet-Deep-learning`](https://github.com/hadycoul12/Projet-Deep-learning) | Détection de mélanomes par transfert d'apprentissage (ResNet50) | Keras, TensorFlow |
+| [`-Modelisation-de-Serie-Temporelle`](https://github.com/hadycoul12/-Modelisation-de-Serie-Temporelle) | Prévision du cours de l'action Tesla : comparaison de SARIMAX, Prophet et LSTM (méthode CRISP-DM) | Python, statsmodels, Prophet, TensorFlow |
+
+---
+
+## Compétences
+
+| | |
+|---|---|
+| **Langages** | Python (avancé), SQL (avancé), R, SAS |
+| **Data & BI** | Power BI (avancé), Tableau, Excel (avancé), Streamlit, R Shiny |
+| **Data engineering** | BigQuery (GCP), Airflow, pipelines ETL, reportings automatisés (Python, crontab, GitLab) |
+| **Machine Learning** | scikit-learn, XGBoost, SHAP, TensorFlow / Keras, statistiques et modèles prédictifs |
+| **Bases de données** | SQL, MongoDB |
+| **Outils** | Git, GitLab, Docker, FastAPI |
+
+## Parcours
+
+- **Data Analyst**, maeva&co (Pierre & Vacances-Center Parcs) : pipelines BigQuery, dashboards, reportings automatisés (-60 % de temps manuel), scoring du risque d'annulation.
+- **Consultant Data**, ECOSTAT : dashboards Power BI, modèles prédictifs, formation de professionnels au Data Mining.
+- **Data Analyst**, Institut national de la statistique : recensement national (plus de 500 000 enregistrements).
+- **Formation** : Master Chef de projet Data & IA (Nexa Digital School) · Licence pro Informatique décisionnelle, Statistique & Big Data (Aix-Marseille Université) · Licence Analyse statistique économique & financière · DUT Statistique et Traitement informatique des données.
+
+---
+
+*« Une donnée seule est brute, mais mise en contexte elle devient décision. »*
